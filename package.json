@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Personal portfolio website with HTML, CSS, and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
+  }
+}
