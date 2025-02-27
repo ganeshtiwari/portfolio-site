@@ -96,6 +96,6 @@ describe('Resume Download', () => {
 
 
         expect(event.preventDefault).toHaveBeenCalled();
-        expect(global.alert).toHaveBeenCalledWith('In a real portfolio, this would download your actual resume.');
+        expect(global.alert).toHaveBeenCalledWith('Resume coming soon !!');
     });
 });
