@@ -75,7 +75,7 @@ function handleFormSubmit(e) {
 
 function handleResumeDownload(e) {
     e.preventDefault();
-    alert('In a real portfolio, this would download your actual resume.');
+    alert('Resume coming soon !!');
 }
 
 function initEventListeners() {
